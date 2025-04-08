@@ -37,6 +37,6 @@
 
  <div>
   <a href="https://github.com/carbone027">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carbone027&theme=dark&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbone027&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carbone027&theme=dracula&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbone027&layout=compact&langs_count=7&theme=dracula"/>
 </div>
